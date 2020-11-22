@@ -1,0 +1,25 @@
+{
+  "name": "microfe-react-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.14.0",
+    "eslint-plugin-react": "^7.21.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/industriousparadigm/mfe-react-vue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/industriousparadigm/mfe-react-vue/issues"
+  },
+  "homepage": "https://github.com/industriousparadigm/mfe-react-vue#readme"
+}
